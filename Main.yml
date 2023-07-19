@@ -15,7 +15,7 @@ jobs:
       - uses: danhellem/github-actions-issue-to-work-item@master
         env:
           ado_token: "${{ u3ao6veh7tysfuyjrbx43lve2vmeq3qfovrm4jjbhe5a5jmo6wbq }}"
-          github_token: "${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}"
+          github_token: "${{ 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 }}"
           ado_organization: "PowerPlatform12121"
           ado_project: "Test123"
           ado_area_path: "Test123"
