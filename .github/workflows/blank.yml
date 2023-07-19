@@ -14,12 +14,12 @@ jobs:
     steps:
       - uses: danhellem/github-actions-issue-to-work-item@master
         env:
-          ado_token: "${{522rtbikw3jggroewflyz7tz632syvsx6iecqljkl4c655kd4gvq}}"
+          ado_token: "${{nqjzt3xryrn37rdrbjrkpgaby2s6meklunwmaj5ipe2lpbcyguja}}"
           github_token: "${{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}}"
-          ado_organization: "PowerPlatform12121"
-          ado_project: "Test123"
-          ado_area_path: "Test123"
-          ado_iteration_path: "Test123"
+          ado_organization: "selvarajd0499"
+          ado_project: "SelvaGithub"
+          ado_area_path: "SelvaGithub"
+          ado_iteration_path: "SelvaGithub"
           ado_wit: "Issue"
           ado_new_state: "New"
           ado_active_state: "Active"
